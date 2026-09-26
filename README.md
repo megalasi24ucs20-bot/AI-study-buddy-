@@ -1,2 +1,6 @@
 https://drive.google.com/file/d/1724iNYRy9fo5g5xl0jLZ23F1nQ05hbDb/view?usp=sharing 
-https://github.com/megalasi24ucs20-bot/AI-study-buddy-/commit/8df201cae07b7d2e658f1eaa3390bbff519f22c5
+
+
+
+
+/data/user/0/com.microsoft.office.word/app_ThirdPartyFiles/com.whatsapp.provider.media/f6ac99e0e5fe9248ee3011549092af8c/Study_Buddy_Project_Documentation.docx
